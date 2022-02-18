@@ -2,7 +2,7 @@
 """
 Created on Fri Feb 18 23:07:57 2022
 
-@author: 91838
+@author
 """
 def last_digit(lst):
     if lst == []:
